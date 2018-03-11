@@ -20,12 +20,12 @@ Cryptocurrencies mentioned in this Notebook have the following abbreviation:
 - Zcash (ZEC)
 
 Team members include:
-- Angie Li
-- Maggie Ma
-- Shanxing Gao
-- Sharad Jain
-- Shruti Saxena
-- Talent Jia
+- [Angie Li](https://github.com/yajieli912)
+- [Maggie Ma](https://github.com/jieyima)
+- [Shanxing Gao](https://github.com/shanxingg)
+- [Sharad Jain](https://github.com/Imsharad)
+- [Shruti Saxena](https://github.com/shrutisaxena0617)
+- [Talent Jia](https://github.com/mengyjia)
 
 # **How to Navigate this Notebook**
 
